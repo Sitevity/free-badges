@@ -1,1 +1,1 @@
-const pair = "pair-badge";
+const pair = "pair-ks";
